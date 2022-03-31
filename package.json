@@ -1,0 +1,25 @@
+{
+  "name": "tdd-teste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackerxxx1/tdd-teste.git"
+  },
+  "keywords": [
+    "tdd"
+  ],
+  "author": "gabriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hackerxxx1/tdd-teste/issues"
+  },
+  "homepage": "https://github.com/hackerxxx1/tdd-teste#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
