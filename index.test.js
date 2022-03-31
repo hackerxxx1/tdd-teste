@@ -1,2 +1,3 @@
 const index= require("index")
-test ('soma de dois numeros', ()=>{})
+//teste 1
+test ('soma de dois numeros', ()=>{ const resut= index.add(3,5);})
