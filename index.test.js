@@ -7,3 +7,4 @@ test("subtração de dois numeros", ()=>{ expect(index.sub(5,3)).toEqual(2);})
 test("mutiplicação de dois numeros", ()=>{ expect(index.mut(3,5)).toEqual(15);})
 //teste divisao
 test("divisao de dois numeros", ()=>{ expect(index.divi(15,5)).toEqual(3);})
+test("divisao de zero", ()=>{ })
