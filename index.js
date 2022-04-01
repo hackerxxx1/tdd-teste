@@ -10,6 +10,6 @@ module.exports={
         return(a*b)
     },
     divi: (a,b) => {
-        return(a/b)
+        if(b != 0){return(a/b)}
     }
 }
